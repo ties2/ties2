@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Nirvana!
 
-Welcome to my GitHub! I'm a Cyber Security Analyst and Red Teaming Enthusiast with over 6 years of experience in offensive security, threat intelligence, and security automation. I specialize in SIEM (Splunk/Sentinel), Python-driven automation, and MITRE ATT&CK-based threat hunting, reducing vulnerabilities and boosting threat detection by 25%. Passionate about AI-driven cybersecurity, CTFs, and contributing to the Netherlands' tech ecosystem while learning Dutch. Explore my projects and let's secure the digital world together! 🔒
+Welcome to my GitHub! I'm a Cyber Security Analyst and Red Teaming Enthusiast with over 6 years of experience in offensive security, threat intelligence, and security automation. I specialize in SIEM (Splunk/Sentinel), Python-driven automation, and MITRE ATT&CK-based threat hunting, reducing vulnerabilities and boosting threat detection by 25%. Passionate about AI-driven cybersecurity, CTFs. Explore my projects and let's secure the digital world together! 🔒
 
 <div align="center">
   <img src="https://github.com/ties2/ties2/blob/main/Business%20Skull%20GIF.gif" alt="Cybersecurity Animation">
