@@ -39,25 +39,26 @@ Welcome to my GitHub! I'm a Cyber Security Analyst and Red Teaming Enthusiast wi
 - **[ATT-CKGenius](https://github.com/ties2/ATT-CKGenius)**: A 2025 project combining RAG with MITRE ATT&CK to analyze and respond to adversary tactics
 - **[malware-ai-agent](https://github.com/ties2/malware-ai-agent)**: The Malware AI Agent is an advanced, AI-powered tool designed for malware analysis and threat intelligence generation
 
-## 📫 Connect with Me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" />](https://www.linkedin.com/in/your-profile/) 
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter" />](https://twitter.com/your-profile) 
-[<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail" />](mailto:your.email@example.com)  
-*[Update with your actual links or remove platforms you don’t use]*
+## 📝 Blog & Insights
 
+I write about cybersecurity, threat intelligence, and AI on Medium. Check out my latest posts on red teaming and automation!
+
+## 💡 Professional Interests
+
+🏴‍☠️ Competing in CTF events and purple teaming to sharpen my skills
+✍️ Sharing threat intelligence and cybersecurity insights via blogs
+🤖 Exploring AI/ML for next-gen security solutions
+
+                                            “The best defense is a great offense—let's secure the future!”
+
+## 📫 Connect with Me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" />](https://www.linkedin.com/in/nirvana-fanaelahi-1b0b3080/) 
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter" />](https://x.com/whispestupid?s=21) 
+[<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail" />](mailto:nirvana.elahi@outlook.com)  
+[<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=medium" />](https://medium.com/@nirvana.elahi) 
 ---
 
-### Why this fits the "Awesome GitHub Profile README" style:
-- **Visual appeal**: Uses emojis, badges, and GitHub stats for a modern, engaging look, like the profiles in the repo.
-- **Structured sections**: Includes "About Me," "Tech Stack," "Stats," "Projects," and "Connect," mirroring popular READMEs.
-- **Customizable**: You can swap in your specific skills (e.g., C++, AWS), projects, or links.
-- **Professional yet friendly**: Balances showcasing expertise with approachability, as seen in examples like [abhisheknaiidu’s README](https://github.com/abhisheknaiidu).
 
-### How to use it:
-1. Copy the markdown above into your GitHub profile README (create a repo named `ties2` with a `README.md` if you haven’t already).
-2. Replace placeholders (e.g., *[Add your current project]*, *[your.email@example.com]*) with your details.
-3. Customize the tech stack, projects, and links. If you share specifics (e.g., languages you use, key repos, or socials), I can tailor it further.
-4. Preview the stats badges at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to pick a theme (e.g., "radical," "dark," or "gruvbox").
 
 ### Questions to refine it:
 - What languages or tools do you specialize in? (e.g., JavaScript, Go, Kubernetes)
