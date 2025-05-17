@@ -1,49 +1,43 @@
-## Hi there 👋
+## 👋 Hi, I'm Nirvana!
 
-<!--
-**ties2/ties2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Based on the inspiration from [Awesome GitHub Profile READMEs](https://github.com/abhisheknaiidu/awesome-github-profile-readme), I’ll craft a visually appealing, professional, and structured "Hi there" section for your GitHub profile (https://github.com/ties2). Since I don’t have specific details about your skills, projects, or preferences, I’ll create a customizable template that aligns with the creative and informative style of the examples, incorporating emojis, badges, and sections for a polished look. You can tweak it with your details.
-
----
-
-# Hi there, I'm Ties! 👋
-
-Welcome to my GitHub! I'm a **passionate developer** building innovative solutions with code. I love diving into **full-stack development**, **open-source projects**, and experimenting with new tech. Here, you’ll find my projects, contributions, and a bit of my coding journey! 🚀
+Welcome to my GitHub! I'm a Cyber Security Analyst and Red Teaming Enthusiast with over 6 years of experience in offensive security, threat intelligence, and security automation. I specialize in SIEM (Splunk/Sentinel), Python-driven automation, and MITRE ATT&CK-based threat hunting, reducing vulnerabilities and boosting threat detection by 25%. Passionate about AI-driven cybersecurity, CTFs, and contributing to the Netherlands' tech ecosystem while learning Dutch. Explore my projects and let's secure the digital world together! 🔒
 
 ## 🌟 About Me
-- 💻 Currently working on: *[Add your current project or focus, e.g., "a React-based task manager"]*
-- 🌱 Learning: *[e.g., "Rust, GraphQL, or DevOps tools"]*
-- 🤝 Open to: Collaborations, open-source contributions, or hackathons
-- 🎯 2025 Goal: *[e.g., "Contribute to 10 open-source projects"]*
-- ⚡ Fun fact: *[e.g., "I code best with coffee and lo-fi music"]*
+
+💻 Currently working on: ATT-CKGenius, a RAG-powered tool for MITRE ATT&CK adversary tactics
+
+🌱 Learning: Dutch to collaborate in the Netherlands' tech scene, plus advanced AI/ML for cybersecurity
+
+🤝 Open to: Open-source collabs, CTF events, and purple teaming exercises
+
+🎯 2025 Goal: Publish 5 cybersecurity blogs and contribute to 3 open-source security tools
+
+⚡ Fun fact: I thrive on solving CTF challenges with a cup of tea and cyberpunk playlists!
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
-*[Add or replace with your preferred languages/tools, e.g., Java, Docker, etc.]*
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+![Splunk](https://img.shields.io/badge/-Splunk-333333?style=flat&logo=splunk)
+
+## 🏆 Certifications
+🛡️ Penetration Testing, Incident Response, and Forensics (Coursera)
+
+🐍 Automate Cybersecurity Tasks with Python (Google)
+
+🕵️ Ethical Hacker (Cisco Networking Academy)
+
+☁️ Microsoft Sentinel (Udemy)
 
 ## 📊 GitHub Stats
 ![Ties' GitHub Stats](https://github-readme-stats.vercel.app/api?username=ties2&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ties2&layout=compact&theme=radical)
 
 ## 🚀 Featured Projects
-- **[Project Name](https://github.com/ties2/project-repo)**: *[Brief description, e.g., "A task management app built with React and Firebase"]*  
-- **[Project Name](https://github.com/ties2/project-repo)**: *[e.g., "A Python script for automating data analysis"]*  
-*[Add links to 2-3 key repos with short descriptions]*
+- **[RedTeamIntelligence](https://github.com/ties2/RedTeamIntelligence)**: The Red Team Intelligence Framework is an advanced cybersecurity simulation platform  
+- **[CTI-Ml](https://github.com/ties2/CTI-ML)**: The CTI ML Project is a Python-based machine learning application designed to support the Cyber Threat Intelligence (CTI) lifecycle 
+- **[ATT-CKGenius](https://github.com/ties2/ATT-CKGenius)**: A 2025 project combining RAG with MITRE ATT&CK to analyze and respond to adversary tactics
+- **[malware-ai-agent](https://github.com/ties2/malware-ai-agent)**: The Malware AI Agent is an advanced, AI-powered tool designed for malware analysis and threat intelligence generation
 
 ## 📫 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" />](https://www.linkedin.com/in/your-profile/) 
