@@ -8,7 +8,7 @@
   <img src="https://github.com/ties2/ties2/blob/main/Business%20Skull%20GIF.gif" alt="Cybersecurity Animation">
 </div> -->
 <p align="center">
-  <img src="https://github.com/ties2/ties2/blob/main/ties2.png" alt="Computer Vision Logo" width="800" />
+  <img src="https://github.com/ties2/ties2/blob/main/ties.png" alt="Computer Vision Logo" width="800" />
 </p>
 
 ## 🌟 About Me
