@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm Nirvana!
 
-Welcome to my GitHub! I'm a Cyber Security Analyst and Red Teaming and AI Enthusiast with over 6 years of experience in offensive security, threat intelligence, and security automation. I specialize in SIEM (Splunk/Sentinel), Python-driven automation, and MITRE ATT&CK-based threat hunting, reducing vulnerabilities and boosting threat detection by 25%. Passionate about AI-driven cybersecurity, CTFs. Explore my projects and let's secure the digital world together! 🔒
+"I'm a Cybersecurity specialist | AI specialist | junior Machine Learning engineering | Data scientist | Entrepreneur
+
+ with a strong background in Cybersecurity Operations and Threat Intelligence. My passion lies in applying Deep Learning, Computer Vision, and Generative AI to solve real-world problems. I have experience with MLOps tools like MLflow, Docker, and Kubernetes for deploying scalable solutions (like my Real-Time Object Detection API). With 6+ years in security, I also leverage my expertise to enhance threat detection and vulnerability scanning using AI/ML, and apply the MITRE ATT&CK framework in my work (e.g., ATT-CKGenius project).
 
 <div align="center">
   <img src="https://github.com/ties2/ties2/blob/main/Business%20Skull%20GIF.gif" alt="Cybersecurity Animation">
@@ -8,15 +10,17 @@ Welcome to my GitHub! I'm a Cyber Security Analyst and Red Teaming and AI Enthus
 
 ## 🌟 About Me
 
-💻 Currently working on: ATT-CKGenius, a RAG-powered tool for MITRE ATT&CK adversary tactics
+💻 Currently working on: Real-Time Object Detection API (YOLOv8, FastAPI, Docker) , and ATT-CKGenius, a RAG-powered tool for MITRE ATT&CK adversary tactics.
 
-🌱 Learning: Dutch to collaborate in the Netherlands' tech scene, plus advanced AI/ML for cybersecurity
+🌱 Learning: Advanced Computer Vision and Data Science techniques , alongside MLOps tools like Kubernetes and FastAPI , to build and deploy scalable ML solutions.
 
-🤝 Open to: Open-source collabs, CTF events, and purple teaming exercises
+🤝 Open to: Open-source contributions, particularly in MLOps, Computer Vision, and AI-driven automation.
 
-🎯 2025 Goal: Publish 5 cybersecurity blogs and contribute to 3 open-source security tools
+🎯 2026 Goal: Secure an MLOps or Data Scientist role where I can apply my skills in ML deployment and my unique cybersecurity experience.
 
-⚡ Fun fact: I thrive on solving CTF challenges with a cup of tea and cyberpunk playlists!
+⚡ Fun fact: With over 6 years in cybersecurity operations, I bring a unique blend of technical expertise and practical problem-solving to every project
+
+
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
