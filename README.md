@@ -4,8 +4,12 @@
 
  with a strong background in Cybersecurity Operations and Threat Intelligence. My passion lies in applying Deep Learning, Computer Vision, and Generative AI to solve real-world problems. I have experience with MLOps tools like MLflow, Docker, and Kubernetes for deploying scalable solutions (like my Real-Time Object Detection API). With 6+ years in security, I also leverage my expertise to enhance threat detection and vulnerability scanning using AI/ML, and apply the MITRE ATT&CK framework in my work (e.g., ATT-CKGenius project).
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/ties2/ties2/blob/main/Business%20Skull%20GIF.gif" alt="Cybersecurity Animation">
+</div> -->
+
+<div align="center">
+  <img src="[https://github.com/ties2/ties2/blob/main/Business%20Skull%20GIF.gif](https://github.com/ties2/ties2/blob/main/ties2.png)" alt="Cybersecurity Animation">
 </div>
 
 ## 🌟 About Me
