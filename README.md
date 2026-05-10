@@ -9,7 +9,7 @@
   <img src="https://github.com/ties2/ties2/blob/main/ties.png" alt="Computer Vision Logo" width="400" />
 </p>
 
-## 🌟 About Me
+##  About Me
 
 ML Engineer & AI Security Specialist with 6+ years of experience at the intersection of cybersecurity and artificial intelligence.
 
@@ -72,7 +72,7 @@ I'm passionate about closing the gap between AI capability and AI safety, buildi
 ![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n)
 
 
-## 🏆 Certifications
+##  Certifications
 🛡️ Penetration Testing, Incident Response, and Forensics (Coursera)
 
 🐍 Automate Cybersecurity Tasks with Python (Google)
@@ -81,21 +81,21 @@ I'm passionate about closing the gap between AI capability and AI safety, buildi
 
 ☁️ Microsoft Sentinel (Udemy)
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![Ties' GitHub Stats](https://github-readme-stats.vercel.app/api?username=ties2&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ties2&layout=compact&theme=radical)
 
-## 🚀 Featured Projects
+##  Featured Projects
 - **[RedTeamIntelligence](https://github.com/ties2/RedTeamIntelligence)**: The Red Team Intelligence Framework is an advanced cybersecurity simulation platform  
 - **[CTI-Ml](https://github.com/ties2/CTI-ML)**: The CTI ML Project is a Python-based machine learning application designed to support the Cyber Threat Intelligence (CTI) lifecycle 
 - **[ATT-CKGenius](https://github.com/ties2/ATT-CKGenius)**: A 2025 project combining RAG with MITRE ATT&CK to analyze and respond to adversary tactics
 - **[malware-ai-agent](https://github.com/ties2/malware-ai-agent)**: The Malware AI Agent is an advanced, AI-powered tool designed for malware analysis and threat intelligence generation
 
-## 📝 Blog & Insights
+##  Blog & Insights
 
 I write about cybersecurity, threat intelligence, and AI on Medium. Check out my latest posts on red teaming and automation!
 
-## 💡 Professional Interests
+##  Professional Interests
 
 🏴‍☠️ Competing in CTF events and purple teaming to sharpen my skills
 ✍️ Sharing threat intelligence and cybersecurity insights via blogs
@@ -103,7 +103,7 @@ I write about cybersecurity, threat intelligence, and AI on Medium. Check out my
 
                                           
 
-## 📫 Connect with Me
+##  Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" />](https://www.linkedin.com/in/nirvana-fanaelahi-1b0b3080/) 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter" />](https://x.com/whispestupid?s=21) 
 [<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail" />](mailto:nirvana.elahi@outlook.com)  
