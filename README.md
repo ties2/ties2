@@ -1,8 +1,6 @@
 ## 👋 Hi, I'm Nirvana!
 
-"I'm a Cybersecurity specialist | AI specialist | junior Machine Learning engineering | Data scientist | Entrepreneur
-
- with a strong background in Cybersecurity Operations and Threat Intelligence. My passion lies in applying Deep Learning, Computer Vision, and Generative AI to solve real-world problems. I have experience with MLOps tools like MLflow, Docker, and Kubernetes for deploying scalable solutions (like my Real-Time Object Detection API). With 6+ years in security, I also leverage my expertise to enhance threat detection and vulnerability scanning using AI/ML, and apply the MITRE ATT&CK framework in my work (e.g., ATT-CKGenius project).
+"I'm a Cybersecurity specialist | AI security | junior Machine Learning engineering | Entrepreneur
 
 <!-- <div align="center">
   <img src="https://github.com/ties2/ties2/blob/main/Business%20Skull%20GIF.gif" alt="Cybersecurity Animation">
@@ -13,23 +11,63 @@
 
 ## 🌟 About Me
 
-💻 Currently working on: Real-Time Object Detection API (YOLOv8, FastAPI, Docker) , and ATT-CKGenius, a RAG-powered tool for MITRE ATT&CK adversary tactics.
+ML Engineer & AI Security Specialist with 6+ years of experience at the intersection of cybersecurity and artificial intelligence.
 
-🌱 Learning: Advanced Computer Vision and Data Science techniques , alongside MLOps tools like Kubernetes and FastAPI , to build and deploy scalable ML solutions.
+My foundation in security operations from SIEM analysis and threat hunting to ISO 27001 and MITRE ATT&CK — gives me a unique lens for tackling AI's most critical challenge: making models trustworthy, robust, and resilient against adversarial threats.
 
-🤝 Open to: Open-source contributions, particularly in MLOps, Computer Vision, and AI-driven automation.
+Today, I specialize in:
+🔐 AI Security, adversarial attacks & defenses (FGSM, PGD, Patch Attacks), red teaming LLMs, prompt injection & jailbreak detection, backdoor detection, and data poisoning awareness
+🤖 Applied ML & Computer Vision — deep learning, fusion architectures, semantic segmentation, and 3D point cloud processing
+🛡️ Responsible AI — bias auditing, model robustness evaluation, and OWASP Top 10 for AI
 
-🎯 2026 Goal: Secure an MLOps or Data Scientist role where I can apply my skills in ML deployment and my unique cybersecurity experience.
+Recent highlights:
+• Built BunqShield, a multi-modal AI fraud detection agent combining a Dual-Stream Vision Transformer, classical CV forensics, a ReAct-loop LLM (Claude), and voice I/O — recognized at bunq Hackathon 7.0 (April 2026)
+• Researching cross-attention fusion architectures for hyperspectral image analysis at NHL Stenden's Computer Vision professorship
+• Developed an end-to-end 3D pruning vision system for autonomous agriculture, achieving 90% branch IoU
+• Created ATT&CKGenius: a RAG-based threat intelligence tool combining LLMs with the MITRE ATT&CK framework
 
-⚡ Fun fact: With over 6 years in cybersecurity operations, I bring a unique blend of technical expertise and practical problem-solving to every project
+I'm passionate about closing the gap between AI capability and AI safety, building systems that are not only powerful, but provably secure.
 
-
+📍 Netherlands
 
 ## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+
+**AI & Machine Learning**  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn)
+![ONNX](https://img.shields.io/badge/-ONNX-333333?style=flat&logo=onnx)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+
+**Computer Vision**  
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+![YOLO](https://img.shields.io/badge/-YOLO-333333?style=flat&logo=yolo)
+
+**AI Security**  
+![Adversarial ML](https://img.shields.io/badge/-Adversarial%20ML-333333?style=flat&logo=shield)
+![Red Teaming LLMs](https://img.shields.io/badge/-Red%20Teaming%20LLMs-333333?style=flat&logo=anthropic)
+![OWASP](https://img.shields.io/badge/-OWASP%20Top%2010-333333?style=flat&logo=owasp)
+![Prompt Injection](https://img.shields.io/badge/-Prompt%20Injection%20Defense-333333?style=flat&logo=openai)
+
+**Cybersecurity**  
 ![Splunk](https://img.shields.io/badge/-Splunk-333333?style=flat&logo=splunk)
+![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-333333?style=flat&logo=target)
+![EDR](https://img.shields.io/badge/-EDR%20Tools-333333?style=flat&logo=security)
+
+**MLOps & Infrastructure**  
+![MLflow](https://img.shields.io/badge/-MLflow-333333?style=flat&logo=mlflow)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
+
+**Data Engineering**  
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=apache-airflow)
+![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n)
+
 
 ## 🏆 Certifications
 🛡️ Penetration Testing, Incident Response, and Forensics (Coursera)
