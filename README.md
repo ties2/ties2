@@ -13,15 +13,18 @@
 
 ML Engineer & AI Security Specialist with 6+ years of experience at the intersection of cybersecurity and artificial intelligence.
 
-My foundation in security operations from SIEM analysis and threat hunting to ISO 27001 and MITRE ATT&CK — gives me a unique lens for tackling AI's most critical challenge: making models trustworthy, robust, and resilient against adversarial threats.
+My foundation in security operations from SIEM analysis and threat hunting to ISO 27001 and MITRE ATT&CK gives me a unique lens for tackling AI's most critical challenge: making models trustworthy, robust, and resilient against adversarial threats.
 
 Today, I specialize in:
+
 🔐 AI Security, adversarial attacks & defenses (FGSM, PGD, Patch Attacks), red teaming LLMs, prompt injection & jailbreak detection, backdoor detection, and data poisoning awareness
+
 🤖 Applied ML & Computer Vision — deep learning, fusion architectures, semantic segmentation, and 3D point cloud processing
-🛡️ Responsible AI — bias auditing, model robustness evaluation, and OWASP Top 10 for AI
+
+🛡️ Responsible AI, bias auditing, model robustness evaluation, and OWASP Top 10 for AI
 
 Recent highlights:
-• Built BunqShield, a multi-modal AI fraud detection agent combining a Dual-Stream Vision Transformer, classical CV forensics, a ReAct-loop LLM (Claude), and voice I/O — recognized at bunq Hackathon 7.0 (April 2026)
+• Built BunqShield, a multi-modal AI fraud detection agent combining a Dual-Stream Vision Transformer, classical CV forensics, a ReAct-loop LLM (Claude), and voice I/O recognized at bunq Hackathon 7.0 (April 2026)
 • Researching cross-attention fusion architectures for hyperspectral image analysis at NHL Stenden's Computer Vision professorship
 • Developed an end-to-end 3D pruning vision system for autonomous agriculture, achieving 90% branch IoU
 • Created ATT&CKGenius: a RAG-based threat intelligence tool combining LLMs with the MITRE ATT&CK framework
